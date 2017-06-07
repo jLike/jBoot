@@ -8,6 +8,7 @@ cache:
     - $HOME/.m2
 
 install: true
+    - mvn install -DskipTests=true -Dmaven.javadoc.skip=true -B -V
     #- mvn install -DskipTests=true -Dmaven.javadoc.skip=true -B -V
     #- mvn clean install #-Dgpg.skip=true
 notifications:
