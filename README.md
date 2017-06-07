@@ -5,5 +5,5 @@ jBooter server-side library
 
 This project is used by the jBooter generator, for more information, issues or questions, please go to [jLike/generator-jbooter](https://github.com/jLike/generator-jbooter).
 
-[travis-image]: https://travis-ci.org/jbooter/jbooter.svg?branch=master
-[travis-url]: https://travis-ci.org/jbooter/jbooter
+[travis-image]: https://travis-ci.org/jlike/jbooter.svg?branch=master
+[travis-url]: https://travis-ci.org/jlike/jbooter
