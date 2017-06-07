@@ -7,8 +7,9 @@ cache:
   directories:
     - $HOME/.m2
 
-install:
-    - mvn clean install #-Dgpg.skip=true
+install: true
+    #- mvn install -DskipTests=true -Dmaven.javadoc.skip=true -B -V
+    #- mvn clean install #-Dgpg.skip=true
 notifications:
   webhooks:
     on_success: change
