@@ -1,0 +1,6 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  io.github.jbooter.config.apidoc.SwaggerConfiguration,\
+  io.github.jbooter.config.metrics.GraphiteRegistry,\
+  io.github.jbooter.config.metrics.PrometheusRegistry,\
+  io.github.jbooter.config.JBooterProperties,\
+  io.github.jbooter.security.uaa.UaaAutoConfiguration

@@ -1,0 +1,12 @@
+io.github.jbooter.async
+io.github.jbooter.config
+io.github.jbooter.config.apidoc
+io.github.jbooter.config.jcache
+io.github.jbooter.config.liquibase
+io.github.jbooter.config.locale
+io.github.jbooter.config.metrics
+io.github.jbooter.domain.util
+io.github.jbooter.security
+io.github.jbooter.security.uaa
+io.github.jbooter.web.filter
+io.github.jbooter.web.util
